@@ -1,0 +1,57 @@
+[
+  {
+    "fruit": "Apple",
+    "size": "Large",
+    "color": "Red"
+  },
+  {
+    "fruit": "Banana",
+    "size": "Medium",
+    "color": "Yellow"
+  },
+  {
+    "fruit": "Grapes",
+    "size": "Small",
+    "color": "Green"
+  },
+  {
+    "fruit": "Orange",
+    "size": "Medium",
+    "color": "Orange"
+  },
+  {
+    "fruit": "Watermelon",
+    "size": "Large",
+    "color": "Green"
+  },
+  {
+    "fruit": "Strawberry",
+    "size": "Small",
+    "color": "Red"
+  },
+  {
+    "fruit": "Pineapple",
+    "size": "Large",
+    "color": "Brown"
+  },
+  {
+    "fruit": "Blueberry",
+    "size": "Small",
+    "color": "Blue"
+  },
+  {
+    "fruit": "Mango",
+    "size": "Medium",
+    "color": "Orange"
+  },
+  {
+    "fruit": "Cherry",
+    "size": "Small",
+    "color": "Red"
+  },
+  {
+    "fruit": "Papaya",
+    "size": "Large",
+    "color": "Orange"
+  }
+]
